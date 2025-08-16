@@ -28,4 +28,14 @@ Dự án được tạo ra nhằm mục đích học tập và thực hành các
 ##  Công nghệ sử dụng
 
 - **HTML5** — Xây dựng cấu trúc giao diện của ứng dụng.
-- **CSS3** — Tạo kiểu dáng, bố cục, và hiệu ứng nú
+- **CSS3** — Tạo kiểu dáng, bố cục, và hiệu ứng nút bấm.
+- **JavaScript (ES6+)** — Xử lý logic phép tính và tương tác với người dùng.
+
+---
+
+##  Cài đặt & Chạy thử
+
+### Clone repository:
+```bash
+git clone https://github.com/tuananh4523/Calculator.git
+cd Calculator
